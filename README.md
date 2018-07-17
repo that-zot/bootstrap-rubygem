@@ -1,6 +1,6 @@
-# Bootstrap Ruby Gem [![Build Status](https://travis-ci.org/twbs/bootstrap-rubygem.svg?branch=master)](https://travis-ci.org/twbs/bootstrap-rubygem) [![Gem](https://img.shields.io/gem/v/bootstrap.svg)](https://rubygems.org/gems/bootstrap)
+# Bootstrap with RTL Ruby Gem [![Build Status](https://travis-ci.org/twbs/bootstrap-rubygem.svg?branch=master)](https://travis-ci.org/twbs/bootstrap-rubygem) [![Gem](https://img.shields.io/gem/v/bootstrap.svg)](https://rubygems.org/gems/bootstrap)
 
-[Bootstrap 4][bootstrap-home] ruby gem for Ruby on Rails (Sprockets) and Hanami (formerly Lotus).
+[Bootstrap 4][bootstrap-home] with right-to-left support ruby gem for Ruby on Rails (Sprockets) and Hanami (formerly Lotus).
 
 For Sass versions of Bootstrap 3 and 2 see [bootstrap-sass](https://github.com/twbs/bootstrap-sass) instead.
 
@@ -106,6 +106,6 @@ In the application Sass file, replace `@import 'bootstrap'` with:
 ```
 
 [bootstrap-home]: https://getbootstrap.com
-[bootstrap-variables.scss]: https://github.com/twbs/bootstrap-rubygem/blob/master/templates/project/_bootstrap-variables.scss
+[bootstrap-variables.scss]: https://github.com/that-zot/bootstrap-with-rtl-rubygem/blob/master/templates/project/_bootstrap-variables.scss
 [autoprefixer]: https://github.com/ai/autoprefixer
 [popper.js]: https://popper.js.org
